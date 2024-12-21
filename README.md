@@ -47,3 +47,4 @@ with open("output.srt", "w") as f:
 
 files.download("output.srt")
 ```
+[github openai whisper](https://github.com/openai/whisper)
