@@ -1,6 +1,5 @@
 ```pyhon
 # Google colab Audio To Srt Whisper.git
-```python
 # prompt: 使用 openai/whisper-large-v3 模型將音訊檔案轉換為 SRT 字幕 並使用 uploaded = files.upload() 上傳檔案
 
 !pip install pydub
